@@ -1,4 +1,6 @@
-# Aula 01 - Primeiros Passos: Iniciando o Projeto
+#Introdução
+
+### Aula 01 - Primeiros Passos: Iniciando o Projeto
 
 Bem-vindo ao repositório da Aula 01 da nossa jornada de programação com inteligência artificial! Nesta primeira aula, vamos dar os primeiros passos na programação, explorar o mundo da inteligência artificial e começar a colocar a mão na massa com HTML, CSS e JavaScript. Hoje, o foco é preparar o ambiente de desenvolvimento e dar uma identidade visual à nossa aplicação, criando o front-end.
 
