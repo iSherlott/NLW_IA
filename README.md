@@ -31,8 +31,13 @@ A estrutura de pastas inclui:
 Para executar a aplicação em seu ambiente de desenvolvimento, siga estas etapas:
 
 1. **Pré-requisito**: Certifique-se de ter o Node.js instalado em seu sistema (recomendamos a versão 18 ou superior).
-2. No terminal, execute o comando `npm i` para instalar as dependências do projeto.
-3. Em seguida, inicie o servidor de desenvolvimento com `npm run web`.
+
+2. Inicie o ambiente de desenvolvimento da aplicação usando os seguintes comandos:
+
+   - Para o front-end com Vite: `npm run web`
+   - Para o servidor back-end: `npm run server`
+
+3. A aplicação será executada em seu navegador e estará pronta para ser desenvolvida e testada.
 
 ## Estrutura das Aulas
 
@@ -40,11 +45,7 @@ Nossa jornada de aprendizado é dividida em três aulas emocionantes:
 
 1. **Aula 01 - Primeiros Passos: Iniciando o Projeto**: Construindo o front-end da nossa aplicação.
 2. **Aula 02 - Avançando em Programação: É Hora do Back-end**: Desenvolvimento do back-end da aplicação com Node.js.
-3. **Aula 03 - Últimos Ajustes: Inserindo a IA no Código**: Introdução ao uso do GPT (Generative Pre-trained Transformer) para gerar resumos de vídeos shorts.
-
-## Atividade com IA e GPT
-
-Na Aula 03, iremos inserir a inteligência artificial em nosso projeto. Utilizaremos o GPT para gerar resumos de vídeos shorts, proporcionando uma experiência de aprendizado única e inovadora.
+3. **Aula 03 - Últimos Ajustes: Inserindo a IA no Código**: Introdução ao uso do GPT (Generative Pre-trained Transformer) para gerar resumos de vídeos shorts, proporcionando uma experiência de aprendizado única e inovadora.
 
 ## Next Level Week (NLW) da Rocketseat
 
