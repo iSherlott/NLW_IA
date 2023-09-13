@@ -25,6 +25,16 @@ A estrutura de pastas inclui:
 - **web**: Arquivos JavaScript e CSS da aplicação.
 - **index.html**: Arquivo principal responsável por renderizar o conteúdo da aplicação.
 
+## Requisitos do Projeto
+
+As versões das dependências utilizadas neste projeto são as seguintes:
+
+- Vite: ^4.4.5
+- Axios: ^1.5.0
+- Cors: ^2.8.5
+- Express: ^4.18.2
+- Ytdl-core: 4.10.0
+
 ## Como Executar a Aplicação
 
 Para executar a aplicação em seu ambiente de desenvolvimento, siga estas etapas:
@@ -58,4 +68,6 @@ Visite [rocketseat.com.br](https://rocketseat.com.br) para saber mais sobre os c
 
 ## Sobre a Escola
 
-A Rocketseat é uma das principais escolas de programação do Brasil, dedicada a ajudar desenvolvedores a atingir o próximo nível em suas carreiras. Com uma abordagem prática e projetos reais, a Rocketseat tem auxiliado milhares de estudantes a dominar tecn
+A Rocketseat é uma das principais escolas de programação do Brasil, dedicada a ajudar desenvolvedores a atingir o próximo nível em suas carreiras. Com uma abordagem prática e projetos reais, a Rocketseat tem auxiliado milhares de estudantes a dominar tecnologias de ponta e se destacar no competitivo mercado de tecnologia.
+
+Aproveite ao máximo esta jornada de aprendizado e desejo-lhe muito sucesso na sua trajetória de programação com inteligência artificial! 🚀👨‍💻👩‍💻
