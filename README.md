@@ -9,9 +9,8 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Como Executar a Aplicação](#como-executar-a-aplicacao)
 - [Estrutura das Aulas](#estrutura-das-aulas)
-- [Aula 01 - Primeiros Passos: Iniciando o Projeto](#aula-01---primeiros-passos-iniciando-o-projeto)
-- [Aula 02 - Avançando em Programação: É Hora do Back-end](#aula-02---avancando-em-programacao-e-hora-do-back-end)
-- [Aula 03 - Últimos Ajustes: Inserindo a IA no Código](#aula-03---ultimos-ajustes-inserindo-a-ia-no-codigo)
+- [Aula 01 - Primeiros Passos: Criando o Front-End](#aula-01---primeiros-passos-criando-o-front-end)
+- [Aula 02 - Avançando em Programação: Desenvolvendo o Back-End](#aula-02---avancando-em-programacao-desenvolvendo-o-back-end)
 - [Next Level Week (NLW) da Rocketseat](#next-level-week-nlw-da-rocketseat)
 - [Sobre a Escola](#sobre-a-escola)
 
@@ -43,9 +42,13 @@ Para executar a aplicação em seu ambiente de desenvolvimento, siga estas etapa
 
 Nossa jornada de aprendizado é dividida em três aulas emocionantes:
 
-1. **Aula 01 - Primeiros Passos: Iniciando o Projeto**: Construindo o front-end da nossa aplicação.
-2. **Aula 02 - Avançando em Programação: É Hora do Back-end**: Desenvolvimento do back-end da aplicação com Node.js.
-3. **Aula 03 - Últimos Ajustes: Inserindo a IA no Código**: Introdução ao uso do GPT (Generative Pre-trained Transformer) para gerar resumos de vídeos shorts, proporcionando uma experiência de aprendizado única e inovadora.
+### Aula 01 - Primeiros Passos: Criando o Front-End
+
+Chegou o momento de dar os seus primeiros passos na programação junto da inteligência artificial. Nessa primeira aula, além de conhecermos o projeto, já vamos começar a colocar a mão na massa com HTML, CSS e JavaScript. Hoje é dia de preparar o seu ambiente de desenvolvimento e dar uma cara para o código, criando o front-end da nossa aplicação.
+
+### Aula 02 - Avançando em Programação: Desenvolvendo o Back-End
+
+A cara do nosso projeto já está pronta, agora é hora de começar a aperfeiçoar ela por baixo dos panos. Isso quer dizer que: chegou o momento de codar do back-end da nossa aplicação. Nessa aula você vai dar seus primeiros passos em Node.js, conhecer as possibilidades desse framework e preparar nosso código para receber inteligência artificial em breve.
 
 ## Next Level Week (NLW) da Rocketseat
 
@@ -55,6 +58,4 @@ Visite [rocketseat.com.br](https://rocketseat.com.br) para saber mais sobre os c
 
 ## Sobre a Escola
 
-A Rocketseat é uma das principais escolas de programação do Brasil, dedicada a ajudar desenvolvedores a atingir o próximo nível em suas carreiras. Com uma abordagem prática e projetos reais, a Rocketseat tem auxiliado milhares de estudantes a dominar tecnologias de ponta e se destacar no competitivo mercado de tecnologia.
-
-Aproveite ao máximo esta jornada de aprendizado e desejo-lhe muito sucesso na sua trajetória de programação com inteligência artificial! 🚀👨‍💻👩‍💻
+A Rocketseat é uma das principais escolas de programação do Brasil, dedicada a ajudar desenvolvedores a atingir o próximo nível em suas carreiras. Com uma abordagem prática e projetos reais, a Rocketseat tem auxiliado milhares de estudantes a dominar tecn
